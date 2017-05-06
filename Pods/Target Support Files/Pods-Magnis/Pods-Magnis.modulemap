@@ -1,0 +1,6 @@
+framework module Pods_Magnis {
+  umbrella header "Pods-Magnis-umbrella.h"
+
+  export *
+  module * { export * }
+}
